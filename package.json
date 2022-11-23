@@ -56,7 +56,7 @@
     "sails-hook-jobs": "^0.1.6",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sluggable": "^0.1.4",
-    "sails-hook-sockets": "^2.0.0",
+    "sails-hook-sockets": "^2.0.3",
     "sails-hook-swagger-generator": "^2.9.0",
     "sails-mongo": "^1.0.1",
     "skipper-better-s3": "^2.3.0",
