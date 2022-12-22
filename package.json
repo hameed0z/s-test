@@ -35,7 +35,7 @@
     "grunt-sync": "^0.8.1",
     "html-pdf": "^2.2.0",
     "include-all": "^4.0.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.20",
     "moment": "^2.24.0",
